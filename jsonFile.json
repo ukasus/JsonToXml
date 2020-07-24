@@ -1,0 +1,41 @@
+{
+  "startDate": "2020-06-27",
+  "endDate": "2020-06-27",
+   "taxInclusive": true,
+  "rooms": [
+    {
+      "rateplans": [
+        {
+          "rate": {
+            "rackRate": 2208
+          },
+          "rateplanId": "executive-s-cp"
+        },
+        {
+          "rate": {
+            "rackRate": 2508
+          },
+          "rateplanId": "executive-d-cp"
+        }
+      ],
+      "roomId": "executive"
+    },
+    {
+      "rateplans": [
+        {
+          "rate": {
+            "rackRate": 1008
+          },
+          "rateplanId": "super-deluxe-s-ep"
+        },
+        {
+          "rate": {
+            "rackRate": 2008
+          },
+          "rateplanId": "super-deluxe-d-ep"
+        }
+      ],
+      "roomId": "super-deluxe"
+    }
+  ]
+}
