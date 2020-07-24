@@ -21,7 +21,7 @@ public class MainClass {
         String jsonStr = new String(Files.readAllBytes(Paths.get(jsonFile)));
         Gson gson=new Gson();
         mapClass mapped=gson.fromJson(jsonStr,mapClass.class);
-        
+
 
         //XML covnversion
 

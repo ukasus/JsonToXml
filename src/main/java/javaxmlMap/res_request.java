@@ -1,4 +1,4 @@
-package jsonJavaMap;
+package javaxmlMap;
 
 import javaxmlMap.data;
 
